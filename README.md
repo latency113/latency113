@@ -14,7 +14,8 @@ Full Stack Developer
 
 
 <h3 align="left">Languages and Tools:</h3>
-| MongoDB              | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)      
+| MongoDB              | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                      | `![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)`                                      |
+
 
 ### Badges
 
