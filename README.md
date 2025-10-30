@@ -12,7 +12,7 @@ Full Stack Developer
 * 🌍  I'm based in Nakhon Pathom
 * ✉️  You can contact me at [loprommy55@gmail.com](mailto:loprommy55@gmail.com)
 * 🚀  I'm currently working on [Nakhonpathom Vocational College](http://nc.ac.th)
-* 🧠  I'm learning React, Tailwind, CSS JavaScript, Figma, TypeScript
+* 🧠  I'm learning React, Tailwind, CSS, JavaScript, TypeScript
 * 🤝  I'm open to collaborating on AI
 
 <h3 align="center">Languages and Tools:</h3>
