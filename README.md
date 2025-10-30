@@ -1,13 +1,18 @@
 <div align="center">
 
+<h1>
+  🌈About Me :
+</h1>
+
+
 ===========================================================================
 
 Full Stack Developer
 -------------------
 
 * 🌍  I'm based in Nakhon Pathom
-* ✉️  You can contact me at [loprommy55@gmail.com](mailto:loprommy55@gmail.com)
-* 🚀  I'm currently working on [Nakhonpathom Vocational College](http://nc.ac.th)
+* 🪐  You can contact me at [loprommy55@gmail.com](mailto:loprommy55@gmail.com)
+* 🚀  I'm currently study on [Nakhonpathom Vocational College](http://nc.ac.th)
 * 🧠  I'm learning React, Tailwind, CSS, JavaScript, TypeScript
 * 🤝  I'm open to collaborating on AI
 
